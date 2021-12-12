@@ -32,6 +32,5 @@ psvimg-extract -K [the encryption key] [your backup].psvimg [destination folder]
 - Emails : ux0_email/message/mail.db
 - Playlists : ux0_mms/music/AVContent.db ux0_mms/photo/AVContent.db ux0_mms/video/AVContent.db
 - Pictures : ux0_picture/CAMERA/
-- Screenshorts : ux0_picture/SCREENSHOT/
+- Screenshots : ux0_picture/SCREENSHOT/
 - All images : ux0_picture/ALL/
-
