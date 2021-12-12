@@ -6,6 +6,8 @@ https://github.com/codestation/qcma
 
 ## Step 2 : get the decryption key from cma.henkaku.xyz
 
+The AID used on the PSVita is a 16 caracters string that is shown inside the backup folder.
+
 ## Step 3 : decrypt the backup with psvimgtools
 
 https://github.com/yifanlu/psvimgtools
