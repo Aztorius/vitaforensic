@@ -3,6 +3,9 @@
 ## Step 0 : remove passcode
 
 If there is an unknown passcode at startup, then you will need to remove it.
+
+YOU ONLY HAVE 4 to 5 TRIES OF PASSCODES.
+
 To do so, you will need to check if the PS Vita is a 1st gen (PCH-100X) or 2nd gen (PCH-200X).
 
 IN ANY CASE : MAKE A FORENSIC COPY OF THE MEMORY CARD
@@ -11,7 +14,7 @@ IN ANY CASE : MAKE A FORENSIC COPY OF THE MEMORY CARD
 
 - Turn off the PS Vita
 - Remove all storage cards from the console
-- Hold power button for 30 seconds
+- Hold R + PS + power buttons until the recovery menu appears
 - On the recovery menu reset the system
 - Once the initialisation is done you need to log in with the user credentials of the same playstation account that was on the console
 - Then turn off the console and put back the memory card
@@ -22,7 +25,7 @@ IN ANY CASE : MAKE A FORENSIC COPY OF THE MEMORY CARD
 - Be sure there is a storage card inserted in the console
 - If there is no card, it may be possible all data are inside the internal storage and YOU SHOULD NOT GO ANY FURTHER
 
-- Hold power button for 30 seconds
+- Hold R + PS + power buttons until the recovery menu appears
 - On the recovery menu reset the system
 - Once the initialisation is done you need to log in with the user credentials of the same playstation account that was on the console
 - Then turn off the console and put back the memory card
