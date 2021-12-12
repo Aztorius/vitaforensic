@@ -1,5 +1,33 @@
 # Vita Forensic
 
+## Step 0 : remove passcode
+
+If there is an unknown passcode at startup, then you will need to remove it.
+To do so, you will need to check if the PS Vita is a 1st gen (PCH-100X) or 2nd gen (PCH-200X).
+
+IN ANY CASE : MAKE A FORENSIC COPY OF THE MEMORY CARD
+
+### Remove passcode on 1st gen PS Vita (NOT TESTED, playstation credentials may be required)
+
+- Turn off the PS Vita
+- Remove all storage cards from the console
+- Hold power button for 30 seconds
+- On the recovery menu format/reset the system
+- Once the initialisation is done you may need to log in with the user credentials
+- Then turn off the console and put back the memory card
+- Now your PS Vita should be able to see all content inside the memory card and you have removed the passcode !
+
+### Remove passcode on 2nd gen PS Vita (NOT TESTED, playstation credentials may be required)
+
+- Be sure there is a storage card inserted in the console
+- If there is no card, it may be possible all data are inside the internal storage and YOU SHOULD NOT GO ANY FURTHER
+
+- Hold power button for 30 seconds
+- On the recovery menu format/reset the system
+- Once the initialisation is done you may need to log in with the user credentials
+- Then turn off the console and put back the memory card
+- Now your PS Vita should be able to see all content inside the memory card and you have removed the passcode !
+
 ## Step 1 : create a backup with QCMA
 
 https://github.com/codestation/qcma
