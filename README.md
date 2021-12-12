@@ -7,24 +7,24 @@ To do so, you will need to check if the PS Vita is a 1st gen (PCH-100X) or 2nd g
 
 IN ANY CASE : MAKE A FORENSIC COPY OF THE MEMORY CARD
 
-### Remove passcode on 1st gen PS Vita (NOT TESTED, playstation credentials may be required)
+### Remove passcode on 1st gen PS Vita (NOT TESTED, playstation credentials REQUIRED)
 
 - Turn off the PS Vita
 - Remove all storage cards from the console
 - Hold power button for 30 seconds
-- On the recovery menu format/reset the system
-- Once the initialisation is done you may need to log in with the user credentials
+- On the recovery menu reset the system
+- Once the initialisation is done you need to log in with the user credentials of the same playstation account that was on the console
 - Then turn off the console and put back the memory card
 - Now your PS Vita should be able to see all content inside the memory card and you have removed the passcode !
 
-### Remove passcode on 2nd gen PS Vita (NOT TESTED, playstation credentials may be required)
+### Remove passcode on 2nd gen PS Vita (NOT TESTED, playstation credentials REQUIRED)
 
 - Be sure there is a storage card inserted in the console
 - If there is no card, it may be possible all data are inside the internal storage and YOU SHOULD NOT GO ANY FURTHER
 
 - Hold power button for 30 seconds
-- On the recovery menu format/reset the system
-- Once the initialisation is done you may need to log in with the user credentials
+- On the recovery menu reset the system
+- Once the initialisation is done you need to log in with the user credentials of the same playstation account that was on the console
 - Then turn off the console and put back the memory card
 - Now your PS Vita should be able to see all content inside the memory card and you have removed the passcode !
 
